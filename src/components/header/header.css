@@ -1,5 +1,5 @@
-
-header{
+/* Стили для широкого экрана */
+header {
     display: flex;
     background-color: black;
     padding: 1.5%;
@@ -7,7 +7,8 @@ header{
     position: fixed;
     width: 100%;
 }
-ul{
+
+ul {
     align-items: center;
     justify-content: center;
     display: grid;
@@ -18,9 +19,18 @@ ul{
     margin: 0 0 0 53%;
     gap: 20%;
 }
-header a img{
+
+header a img {
     max-width: 100%;
     height: auto;
     width: 12vw;
     margin: 0 0 0 50%;
 }
+
+
+
+.header__first-li.active{
+    text-decoration: underline;
+    text-decoration-color: #7985CE ;
+}
+
