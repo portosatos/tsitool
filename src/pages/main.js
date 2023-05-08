@@ -1,4 +1,4 @@
-import "./../styles/style.css";
+import "../styles/style.css";
 
 import section1_img from "../media/section1-img.jpg"
 
