@@ -5,7 +5,10 @@ function Telegram() {
     return (
     <main>
 
+        <a href="https://t.me/TsiToolsBot">
         <img className="tg__img" src={tg_link} />
+        </a>
+
 
     </main>
 );
