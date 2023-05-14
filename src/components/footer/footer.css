@@ -23,3 +23,21 @@ footer{
     font-size: 1.3vw;
     margin: 7% 0 0 0;
 }
+
+@media only screen and (max-width: 480px) {
+    .footer__img-area {
+      grid-template-columns: repeat(3, 20px);
+      justify-content: center;
+      grid-row-gap: 10px;
+    }
+    
+    .footer__img-area__img {
+      width: 20px;
+    }
+    
+    .footer__text-area__text {
+      font-size: 1rem;
+      margin-top: 20px;
+    }
+  }
+  
