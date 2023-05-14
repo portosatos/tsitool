@@ -45,11 +45,11 @@ header a img {
         justify-content: center;
         margin: 0;
         gap: 10px;
-        font-size: 2.3vw;
+        font-size: 3.5vw;
     }
 
     header a img {
         margin: 0;
-        width: 17vw;
+        width: 27vw;
     }
 }
