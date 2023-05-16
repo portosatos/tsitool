@@ -11,7 +11,6 @@ function Main() {
                 <p className="section1-text">If you are a TSI AUCA student and want to improve your grades, we are <br/>pleased to inform you that there is a new Telegram bot that will be your reliable study assistant! This bot will not only help you calculate your current GPA (grade point average), but will also give you complete information about your minor hours.</p>
             </div>
             <div className="section1__img-area">
-                <img src={section1_img} alt="" />
             </div>
         </section>
         <section className="section2">
