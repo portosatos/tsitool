@@ -9,7 +9,6 @@ function Telegram() {
         <img className="tg__img" src={tg_link} />
         </a>
 
-
     </main>
 );
 }
